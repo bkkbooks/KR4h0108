@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR4h0108_000.yaml, hash: 'sha256:4b26b3d20e06143c2065de886e1faa234fc420ff066442ae82fc18063bc0fdde'}
   - {seq: 1, filename: KR4h0108_001.yaml, hash: 'sha256:fe28f38df06eda806ecf39316ed06ecdabf3be78ff19461488cc0c0d3499f2b0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4h0108_000.markers.yaml, hash: 'sha256:1e2a228d935725b0f4e8ef4ec3c5f732ddeefcbf4ac27f9ce9b0970389c77bd8'}
-  - {seq: 1, role: markers, filename: assets/KR4h0108_001.markers.yaml, hash: 'sha256:89d07333990e55936cb88e03956f82756c586b187dc25b0bab481de19f1dd006'}
+  - {seq: 0, role: markers, filename: assets/KR4h0108_000.markers.yaml, hash: 'sha256:fa7af62c56f0b5697aa462a316a8a8fd6d15aa20cfac3edc597321b289921099'}
+  - {seq: 1, role: markers, filename: assets/KR4h0108_001.markers.yaml, hash: 'sha256:b5393ae34d542cec15dd9f972ea709cb295384dc84778d53a9fdd2bf48884a0c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 詩紀匡謬
   type: section
   level: 1
-hash: sha256:b438ce0082fb01a38bc9bee604366bcd8d90c32ad946dfca679bbec41ed3702f
+hash: sha256:1f19845b4593a63390f6113cc84ef488241d1171f74d3e3831cf68cef6f974b6
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
